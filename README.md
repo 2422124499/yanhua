@@ -1,37 +1,33 @@
 # love
 
-#### 介绍
-烟花模拟器
+# 烟花模拟器v2
 
-#### 软件架构
-软件架构说明
+项目来自: [https://codepen.io/MillerTime/pen/XgpNwb](https://codepen.io/MillerTime/pen/XgpNwb).
 
+本人进行了汉化
 
-#### 安装教程
+喜爱烟花的人对各种烟花效果的模拟提供了多样性和真实性的尝试。
+一定要看设置菜单（右上角的齿轮图标）获取更多的功能和控制。
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+-------------
 
-#### 使用说明
+## 🎆 v2主要更新！🎆
+-------------
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+- 自从我在2017年发布这篇文章以来，发生了很多变化：
+  -音效！
+  -一种新的更真实的烟花星分布算法
+  -新烟花类型
+  -正确的全屏控制
+  -自定义缩放控件，允许在小屏幕上查看较大的烟花类型。
+  -很多其他的增强和调整
 
-#### 参与贡献
+这是与 [snapshot of v1](https://codepen.io/MillerTime/pen/BVvPdB) 的比较
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+-------------
 
+**额外的乐趣：**通过在屏幕底部附近拖动来控制慢动作！
 
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+- **电脑键盘快捷键：**
+  -**P**-暂停
+  -**O**-设置
