@@ -320,7 +320,7 @@ const helpContent = {
 	},
 	autoLaunch: {
 		header: '自动发射',
-		body: '自动启动烟花序列，就可以坐下来欣赏表演，或禁用以完全手动控制。'
+		body: '启用此选项即可自动启动烟花序列，取消勾选你就可以手动控制烟花的发射'
 	},
 	finaleMode: {
 		header: '结局模式',
